@@ -1,3 +1,6 @@
+# Candidate Tiago Amorim Considerations
+- I could create a Page objects and a constructor but the code asked to code only in a specifically space.
+
 # WebDriverChallenge
 Coding challenge for webdriver automation.
 
